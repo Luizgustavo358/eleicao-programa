@@ -31,7 +31,7 @@ def configuracao():
 
 if __name__ == "__main__":
     # configurando a conexao
-    configuracao()
+    # configuracao()
 
     # inicializando a tela de votacao
     app = QtWidgets.QApplication(sys.argv)
